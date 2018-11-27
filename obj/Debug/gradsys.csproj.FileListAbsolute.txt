@@ -1,0 +1,39 @@
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\bin\Debug\gradsys.exe
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\bin\Debug\gradsys.pdb
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\bin\Debug\gradsys.xml
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\Grading_System.Form1.resources
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\gradsys.exe
+C:\Users\don\Desktop\New tutorials for csharp\gradsys\gradsys\gradsys\CS\obj\Debug\gradsys.pdb
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\obj\Debug\gradsys.pdb
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\bin\Debug\gradsys.exe
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\bin\Debug\gradsys.pdb
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\bin\Debug\gradsys.xml
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\obj\Debug\Grading_System.Form1.resources
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\obj\Debug\gradsys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Grading System\gradingsystem\obj\Debug\gradsys.exe
+D:\Grading System\gradingsystem\obj\Debug\gradsys.exe
+D:\Grading System\gradingsystem\obj\Debug\gradsys.pdb
+D:\Grading System\gradingsystem\bin\Debug\gradsys.exe
+D:\Grading System\gradingsystem\bin\Debug\gradsys.pdb
+D:\Grading System\gradingsystem\bin\Debug\gradsys.xml
+D:\Grading System\gradingsystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Grading System\gradingsystem\obj\Debug\Grading_System.Form1.resources
+D:\Grading System\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+D:\Grading System\gradingsystem\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Grading System\gradingsystem\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\C# Example\Grading System\gradingsystem\obj\Debug\gradsys.exe
+D:\C# Example\Grading System\gradingsystem\obj\Debug\gradsys.pdb
+D:\C# Example\Grading System\gradingsystem\bin\Debug\gradsys.exe
+D:\C# Example\Grading System\gradingsystem\bin\Debug\gradsys.pdb
+D:\C# Example\Grading System\gradingsystem\bin\Debug\gradsys.xml
+D:\C# Example\Grading System\gradingsystem\obj\Debug\gradsys.csprojResolveAssemblyReference.cache
+D:\C# Example\Grading System\gradingsystem\obj\Debug\Grading_System.Form1.resources
+D:\C# Example\Grading System\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+D:\C# Example\Grading System\gradingsystem\obj\Debug\gradsys.csproj.GenerateResource.Cache
+D:\C# Example\Grading System\STI Grading System\obj\Debug\gradsys.exe
+D:\C# Example\Grading System\STI Grading System\obj\Debug\gradsys.pdb

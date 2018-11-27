@@ -1,0 +1,13 @@
+D:\C# Example\Grading System\STI Grading System\obj\Debug\gradsys.exe
+D:\C# Example\Grading System\STI Grading System\obj\Debug\gradsys.pdb
+C:\Users\kathy\Desktop\STI Grading System\obj\Debug\gradsys.exe
+C:\Users\kathy\Desktop\STI Grading System\obj\Debug\gradsys.pdb
+C:\Users\kathy\Desktop\STI Grading System\bin\Debug\gradsys.exe
+C:\Users\kathy\Desktop\STI Grading System\bin\Debug\gradsys.pdb
+C:\Users\kathy\Desktop\STI Grading System\bin\Debug\gradsys.xml
+C:\Users\kathy\Desktop\STI Grading System\obj\Debug\STIGradeSys.csprojResolveAssemblyReference.cache
+C:\Users\kathy\Desktop\STI Grading System\obj\Debug\Grading_System.Form1.resources
+C:\Users\kathy\Desktop\STI Grading System\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\kathy\Desktop\STI Grading System\obj\Debug\STIGradeSys.csproj.GenerateResource.Cache
+D:\C# Example\New folder (2)\STI Grading System\obj\Debug\gradsys.exe
+D:\C# Example\New folder (2)\STI Grading System\obj\Debug\gradsys.pdb
